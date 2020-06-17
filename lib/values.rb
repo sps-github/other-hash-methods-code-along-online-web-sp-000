@@ -8,6 +8,8 @@ groceries = {
   grains: ["rice", "pasta"]
 }
 
+groceries.keys
+
 def get_the_values(groceries)
-  groceries.keys
+
 end
